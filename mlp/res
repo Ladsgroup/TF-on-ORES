@@ -1,0 +1,35 @@
+amir@amir-GL552VW:~/workspace/ores-tf$ python wow_mlp.py
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+Epoch: 0001 cost= 692450052.492385745
+Epoch: 0002 cost= 527776819.032994747
+Epoch: 0003 cost= 533367447.715735912
+Epoch: 0004 cost= 499872255.309644461
+Epoch: 0005 cost= 533826119.571065962
+Epoch: 0006 cost= 518750681.751268864
+Epoch: 0007 cost= 532280253.218273759
+Epoch: 0008 cost= 550845021.522842646
+Epoch: 0009 cost= 566750472.793147206
+Epoch: 0010 cost= 546471346.725888014
+Epoch: 0011 cost= 539344669.258883357
+Epoch: 0012 cost= 497366654.073604286
+Epoch: 0013 cost= 540338902.733502269
+Epoch: 0014 cost= 525989045.697969377
+Epoch: 0015 cost= 492317284.340101361
+Epoch: 0016 cost= 493561974.335659683
+Epoch: 0017 cost= 518098344.418782115
+Epoch: 0018 cost= 516844700.916243553
+Epoch: 0019 cost= 498175536.923857808
+Epoch: 0020 cost= 510312286.309010088
+Epoch: 0021 cost= 486787952.903553545
+Epoch: 0022 cost= 475127296.888325095
+Epoch: 0023 cost= 479914688.050761700
+Epoch: 0024 cost= 511763210.359454393
+Epoch: 0025 cost= 499853337.560913861
+Optimization Finished!
+Accuracy: 0.95725
+
